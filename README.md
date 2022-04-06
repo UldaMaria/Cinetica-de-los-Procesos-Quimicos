@@ -1,4 +1,4 @@
-# <font color="blue">Cinetica-de-los-Procesos-Quimicos</font>
+# <font color="blue">Cinetica de los Procesos Quimicos</font>
 
 
 El amplio mundo de la ingeniería de las reacciones químicas
